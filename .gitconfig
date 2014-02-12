@@ -41,8 +41,8 @@
     pager = less -FRSX
     whitespace=trailing-space
 [apply]
-  whitespace = fix
+    whitespace = fix
 [push]
-	default = simple
+    default = simple
 [help]
-  autocorrect = 1
+    autocorrect = 1
